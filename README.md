@@ -34,7 +34,7 @@
 
 # Contoh
 
-![respon](https://user-images.githubusercontent.com/113892212/194761280-f28112c3-738a-4ba9-bba2-c353450b8c3a.png)
 ![req](https://user-images.githubusercontent.com/113892212/194761281-9ddd52b9-4685-40aa-8a2d-00d394f0c6a0.png)
+![respon](https://user-images.githubusercontent.com/113892212/194761280-f28112c3-738a-4ba9-bba2-c353450b8c3a.png)
 
 
