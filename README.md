@@ -32,3 +32,7 @@
 - PUT("/api/v1/cars/:id") : untuk memperbarui data mobil 
 - DELETE("/api/v1/cars/:id") : untuk menghapus data mobil
 
+# Contoh
+![respon](https://user-images.githubusercontent.com/113892212/194760638-30d6195b-1735-4dcf-b2ed-823ede9781da.png)
+
+
