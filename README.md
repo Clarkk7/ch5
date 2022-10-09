@@ -12,7 +12,7 @@
 
 
 # ERD
-![erd](https://user-images.githubusercontent.com/113892212/194760181-f9f26b66-0f2b-4714-a878-af22abee5250.png)
+![erd-kel5](https://user-images.githubusercontent.com/113892212/194760235-bb5d62dd-51a0-421b-ad76-2ff10282781e.png)
 
 
 ![ERD rental Mobil](https://user-images.githubusercontent.com/113892212/194760158-b12a9ca9-9339-4a29-8dce-c88d090a87dd.png)
